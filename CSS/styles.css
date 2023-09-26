@@ -1,0 +1,27 @@
+body{
+background-color: aquamarine;
+
+}
+
+header{
+width: 100%;
+border: solid red;
+height: 20%;
+}
+
+li img{
+padding-left: 50px;
+padding-top: 10px;
+}
+
+nav li{
+display: inline;
+margin: 15px;
+padding: 50px;
+}
+
+a {
+font-size: 20px;
+margin: 20px;
+padding: 20px;
+}
